@@ -1,6 +1,11 @@
-#PHP Test Project
+# PHP Test Project
 
-Description: This project is my technical exam for TransferMate. Where there is a cml parser feature to parse XML files into the database (parse-xmls.php) and show the parsed data to the search feature (http://localhost:9000/public)
+---
+Author: **_Bryan Mangulabnan_** _(mangulabnan.bryan@ymail.com)_
+
+Description: This project is my technical exam for _TransferMate_. Where there is a cml parser feature to parse XML files into the database (parse-xmls.php) and show the parsed data to the search feature (http://localhost:9000/public)
+
+---
 
 ## Tools:
 - Docker
